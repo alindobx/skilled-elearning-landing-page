@@ -1,2 +1,2 @@
-# skilled-elearning-landing-page
+# Skilled E-learning Landing Page
 Elearning landing page
